@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sentence.png
 title: sentence.Live
-permalink: projects/sentencelive.md
+permalink: projects/sentencelive
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-20
 labels:
