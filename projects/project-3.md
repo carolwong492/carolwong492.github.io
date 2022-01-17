@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/blog4.png
 title: Food Blog
-permalink: projects/foodblog.md
+permalink: projects/foodblog
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-09
 labels:
