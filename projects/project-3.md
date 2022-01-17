@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/blog.png
+title: Food Blog
+permalink: projects/foodblog
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-21-2021-10-9
 labels:
-  - Lisp
-  - GitHub
+  - Weebly
+  - Writing
 summary: A creative nonfiction foodblog I developed for ENG 313. 
 ---
 
