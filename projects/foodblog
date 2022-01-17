@@ -5,7 +5,7 @@ image: images/blog.png
 title: Food Blog
 permalink: projects/foodblog
 # All dates must be YYYY-MM-DD format!
-date: 2021-10-09
+date: 2021-09-21-2021-10-09
 labels:
   - Weebly
   - Writing
