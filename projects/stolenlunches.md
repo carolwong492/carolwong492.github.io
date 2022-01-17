@@ -9,7 +9,7 @@ date: 2020-08-20
 labels:
   - Twine
   - Game
-summary: An interactive fiction game I created for a game jam.
+summary: An interactive fiction game created for a game jam.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
