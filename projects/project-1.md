@@ -12,9 +12,7 @@ labels:
 summary: A two-player fighting game I developed using JavaScript.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/charselect.png">
 <img class="ui medium right floated rounded image" src="../images/standoff.png">
-<img class="ui medium right floated rounded image" src="../images/pinkwin.png">
 
 sentence.Live is a two-player fighting game developed in my junior year Intro to Computer Science course in high school. The controls are 
 
