@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/game.png
 title: Flash Mobs and Stolen Lunches
-permalink: projects/stolenlunches
+permalink: projects/stolenlunches.md
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-20
 labels:
