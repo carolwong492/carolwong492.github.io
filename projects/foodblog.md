@@ -12,9 +12,9 @@ labels:
 summary: A creative nonfiction foodblog I developed for ENG 313. 
 ---
 
-<img class="ui image" src="../images/blog1.png">
+<img class="ui medium right floated rounded image" src="../images/blog1.png">
 
-
+I developed a blog focused on food in my ENG 313 class. Our assignments often required us to go out to  
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
