@@ -12,14 +12,11 @@ labels:
 summary: An interactive fiction game created for a game jam.
 ---
 
-<img class="ui medium left floated rounded image" src="../images/game1.png">
+Flash Mobs and Stolen Lunches is an interactive fiction game that I created for the I Can't Write but Want to Tell a Story Game Jam and the [Summer Novel Game Jam](https://itch.io/jam/sunofes20). 
 
-Flash Mobs and Stolen Lunches is an interactive fiction game that I created for the I Can't Write but Want to Tell a Story Game Jam and the [Summer Novel Game Jam](ttps://itch.io/jam/sunofes20). 
+I worked on the game throughout one month. During that time, I learned how to use [Twine](https://twinery.org/), which is an open-source tool used to make interactive fiction projects using webpages. I wrote the story, created the art, and managed the CSS for the game. I gained an 
 
-The game jam lasted for a month. During that time, I learned how to use [Twine](https://twinery.org/), which is an open-source tool used to make interactive fiction projects using webpages. The 
-
-I wrote the story, created the art, and managed the CSS for the game. 
-
+<img class="ui image" src="../images/game1.png">
 
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
