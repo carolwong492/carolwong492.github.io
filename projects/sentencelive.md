@@ -18,11 +18,7 @@ sentence.Live is a two-player fighting game developed in my junior year Intro to
 
 The two players share one keyboard for input, with one player using WASD to move and V and B to attack, while the other player uses the arrow keys to move and L and K to attack. 
 
-In my class, we were assigned 
-
-Through this project, I learned about creating 
-
-For this project, I developed the programming and the art. A lot of the art that is used was placeholder art that I intended to replace.  
+For this project, I developed the programming and the art. A lot of the art that is used was placeholder art that I intended to replace. However, I couldn't 
 
 The game can be played and the code can be viewed [here](https://studio.code.org/projects/gamelab/7Ns_XQvP99pPVCVWe3YGuzr6EyS6dDP3NgYoeRpcsdQ). 
 
