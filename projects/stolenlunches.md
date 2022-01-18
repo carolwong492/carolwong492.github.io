@@ -12,17 +12,14 @@ labels:
 summary: An interactive fiction game created for a game jam.
 ---
 
-Flash Mobs and Stolen Lunches is an interactive fiction game that I created for the I Can't Write but Want to Tell a Story Game Jam and the [Summer Novel Game Jam](https://itch.io/jam/sunofes20). 
+Flash Mobs and Stolen Lunches is an interactive fiction game that I created for the I Can't Write but Want to Tell a Story Game Jam (Link is now defunct) and the [Summer Novel Game Jam](https://itch.io/jam/sunofes20). 
 
-I worked on the game throughout one month. During that time, I learned how to use [Twine](https://twinery.org/), which is an open-source tool used to make interactive fiction projects using webpages. I wrote the story, created the art, and managed the CSS for the game. I gained an 
+The I Can't Write game jam took place over the course of one month. During that time, I learned how to use [Twine](https://twinery.org/), which is an open-source tool used to make interactive fiction projects using webpages. Through the functions and macros that are built in Twine, I was able to create a detective game that relied on talking to characters and presenting clues that were gathered throughout the story. In addition, I wrote the story, created the art, and managed the CSS for the game. 
+
+This was the first time I've entered a game jam, and the first time I created and maintained deadlines for a personal project. I 
 
 <img class="ui image" src="../images/game1.png">
 
+The game can be played [here](https://hullabaloo.itch.io/flash-mobs-and-stolen-lunches).
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
