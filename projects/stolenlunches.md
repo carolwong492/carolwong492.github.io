@@ -16,7 +16,7 @@ Flash Mobs and Stolen Lunches is an interactive fiction game that I created for 
 
 The I Can't Write game jam took place over the course of one month. During that time, I learned how to use [Twine](https://twinery.org/), which is an open-source tool used to make interactive fiction projects using webpages. Through the functions and macros that are built in Twine, I was able to create a detective game that relied on talking to characters and presenting clues that were gathered throughout the story. In addition, I wrote the story, created the art, and managed the CSS for the game. 
 
-This was the first time I've entered a game jam, and the first time I created and maintained deadlines for a personal project. I 
+This was the first time I've entered a game jam, and the first time I created and maintained deadlines for a personal project. While I dabbled in CSS in high school, I had to grasp a much better understanding of it to be able to customize my game fully.  
 
 <img class="ui image" src="../images/game1.png">
 
