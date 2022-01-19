@@ -12,7 +12,7 @@ labels:
 summary: A creative nonfiction foodblog I developed for ENG 313. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/blog1.png">
+<img class="ui large right floated rounded image" src="../images/blog1.png">
 
 I developed a blog focused on food in my ENG 313 class. Blog posts often required us to visit different restaurants that we've never been to before and writing about our experience there.
 
