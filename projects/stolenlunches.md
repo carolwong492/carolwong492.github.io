@@ -21,7 +21,6 @@ This was the first time I've entered a game jam, and the first time I created an
 While I dabbled in CSS in high school, I had to gain a much better understanding of it to be able to customize my game fully. In addition, I had to research how exactly the Twine macros worked and 
 
 <img class="ui image" src="../images/game1.png">
+<img class="ui image" src="../images/gameClues.png">
 
 The game can be played [here](https://hullabaloo.itch.io/flash-mobs-and-stolen-lunches).
-
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
