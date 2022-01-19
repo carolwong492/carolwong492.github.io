@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: Blast from the Past and Baby Step into the Future
