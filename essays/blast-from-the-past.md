@@ -18,13 +18,13 @@ What about athletic software engineering? Did you find the practice WODs to be u
 In high school, I took an Intro to Computer Science class, where JavaScript was our main focus. This was my first dedicated computer science class, so I was worried that I would struggle to keep up. However, I found that it was easy to pick up. Compared to what I now know from Java and C++, I find JavaScript to be the most logical for me. From a software engineering perspective, JavaScript is a good programming language. It's especially good for beginners. It has a shallow learning curve, but still has a lot of depth so that you are able to do a lot with the language. 
 
 ## The New and Scary 
-Since I was coming into this module with at least a little bit of knowledge, I wasn’t as nervous as I could have been. However, 
+Since I was coming into this module with at least a little bit of knowledge on JavaScript, I wasn’t as nervous as I would have been otherwise. I went through the JavaScript course briskly, as I refreshed my memory on JavaScript syntax and how the language workes. 
+
+However, I was very surprised about some of the things I learned that were available in ES6. I wondered if this is 
 
 Technology is constantly updating and 
 
-
-
 Talk about how i learned javascript in high school, but im a bit rusty. At first, i was afraid that i knew nothing at all. Something about how technology is always getting updated when i was doing the es6 stuff and how sometimes, it feels like you’ll fall behind if you don’t keep up with this stuff
 
-
 ## Just Nervous
+
