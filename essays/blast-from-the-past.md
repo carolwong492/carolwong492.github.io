@@ -1,6 +1,6 @@
 layout: essay
 type: essay
-title: Blast from the Past and Swan Dive into the Future
+title: Blast from the Past and Baby Step into the Future
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-18
 labels:
