@@ -11,6 +11,7 @@ labels:
 
 What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
 
+<img class="ui medium left floated rounded image" src="../images/past.jpg">
 
 ## The Good Old Days
 In high school, I took an Intro to Computer Science class, where JavaScript was our main focus. That was my first dedicated computer science class, so I was worried that I would struggle to keep up. However, I found that it was easy to pick up. Compared to what I now know from Java and C++, I find JavaScript to be the most logical for me. From a software engineering perspective, JavaScript is a good programming language. It's especially good for beginners. It has a shallow learning curve, but still has a lot of depth so that you are able to do a lot with the language. 
