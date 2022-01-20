@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blog4.png
+image: images/hawkwardlogo.png
 title: Hawkward Bird Cafe
 permalink: projects/hawkward
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: Creation of the graphic design and brand of an imaginary business. 
 ---
 
-<img class="ui large right floated rounded image" src="../images/blog1.png">
+<img class="ui large right floated rounded image" src="../images/hawkwardall.jpg">
 
 I decided to do a bird cafe named "Hawkward Bird Cafe". A bird cafe would have be similar in concept to a cat cafe, except with birds instead of cats. 
 
