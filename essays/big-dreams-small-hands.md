@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: Big Dreams, Small Hands
+# All dates must be YYYY-MM-DD format!
+date: 2022-01-20
+labels:
+  - Software Engineering
+---
+
+Third, create a technical essay (approximately 3-4 paragraphs) that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
+
+(The average hand length for women is 6.8 inches, and my hands are 7 inches, so technically, I have hands a bit larger than average, but I committed to the title of this essay already.) 
+
+## 
