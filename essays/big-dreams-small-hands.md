@@ -16,3 +16,9 @@ Third, create a technical essay (approximately 3-4 paragraphs) that discusses yo
 ## Vocabulary
 
 ## 
+- skills want to develop:
+  - more languages
+  - more modes of creating things (apps, websites, etc.) 
+- experiences want to develop:
+  - working in a team on a project: a lot of the projects i worked on was just on my own
+  - 
