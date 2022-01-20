@@ -12,7 +12,7 @@ Third, create a technical essay (approximately 3-4 paragraphs) that discusses yo
 
 (The average hand length for women is 6.8 inches, and my hands are 7 inches long, so technically, I have hands a bit larger than average, but I was being metaphorical and also I committed to the title of this essay already.) 
 
-<img class="ui medium right floated rounded image" src="../images/hands.jpg">
+<img class="ui medium right floated rounded image" src="../images/oldpc.jpg">
 ## I
 Growing up, my family had one of those bulky off-white computers that were a solid cubic foot and had the extremely loud keyboards. Whenever my dad wasn't using it for work, I would scramble up onto the seat and use it for myself. I usually spent my computer time just playing flash games from [Nick Jr](http://www.nickjr.com/) or [PBS Kids](https://pbskids.org/). I fancied myself quite tech-savvy for being able to 
 
