@@ -20,7 +20,11 @@ Growing up, my family had one of those bulky off-white computers that were a sol
 Of course, as I got older, I realized that I really didn't know anything about computers at all. While I never took an actual computer science class until high school, I took the learning into my own hands. Mostly, this just meant I did the HTML and JavaScript courses that were available at [Khan Academy](https://www.khanacademy.org/). I was always interested in trying to make games like the ones I played as a kid, and the possibilities for the websites I could make intrigued me as well.
 
 ## Languages My Mouth Can't Speak
-After learning your first programming language, it's a lot easier to learn another. Right now, I totally agree with that, as right now, I've learned JavaScript, Java, and C++. But if I was told that when I was struggling 
+After learning your first programming language, it's a lot easier to learn another. And another. And another. A lot of programming languages share the same core concepts, and after you learn the first language, you can understand the logic behind 
+
+
+
+Right now, I totally agree with that, as I've learned JavaScript, Java, and C++. But if I was told that when I was struggling to understand for-loops in high school, I would've told you to shove off. 
 
 
 ## Teamwork Makes the Dream Work
