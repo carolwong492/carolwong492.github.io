@@ -15,7 +15,7 @@ Third, create a technical essay (approximately 3-4 paragraphs) that discusses yo
 
 <img class="ui medium right floated rounded image" src="../images/oldpc.jpg">
 ## Flash Back
-Growing up, my family had one of those bulky off-white computers that were a solid cubic foot and had the extremely loud keyboards. Whenever my dad wasn't using it for work, I would scramble up onto the seat and use it for myself. I usually spent my computer time just playing flash games from [Nick Jr](http://www.nickjr.com/),  or [PBS Kids](https://pbskids.org/). I fancied myself quite tech-savvy for being able to navigate to get to play the dress-up game that I was obssessed with. 
+Growing up, my family had one of those bulky off-white computers that were a solid cubic foot and had the extremely loud keyboards. Whenever my dad wasn't using it for work, I would scramble up onto the seat and use it for myself. I usually spent my computer time just playing flash games from [Nick Jr](http://www.nickjr.com/),  or [PBS Kids](https://pbskids.org/). I fancied myself quite tech-savvy for being able to type in a web-address with my index fingers and navigate to the dress-up game I was obsessed with.
 
 Of course, as I got older, I realized that I really didn't know anything about computers at all. While I never took an actual computer science class until high school, I took the learning into my own hands. Mostly, this just meant I did the HTML and JavaScript courses that were available at [Khan Academy](https://www.khanacademy.org/). I was always interested in trying to make games like the ones I played as a kid, and the possibilities for the websites I could make intrigued me as well.
 
