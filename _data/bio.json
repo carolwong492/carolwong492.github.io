@@ -77,8 +77,23 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
-        "ICS 211",
-        "ICS 314",
+        "ICS 211: Introduction to Computer Science"
+        "ICS 141: Discrete Math for CS"
+        "ICS 212: Program Structure"
+        "ICS 241: Discrete Math for CS"
+      ]
+    },
+     {
+      "institution": "Moanalua High School, Honolulu, HI",
+      "area": "High School Diploma",
+      "startDate": "2016",
+      "endDate": "2020",
+      "gpa": "4.0",
+      "courses": [
+        "Valedictorian"
+        "Academic Honors"
+        "CTE Honors"
+        "Member of Book Club"
       ]
     }
   ],
@@ -94,6 +109,17 @@
         "Worked with a team of 8 to modify and maintain a system's cyber defense",
         "Assessed a virtual operating system's vulnerabilities",
       ]
+    },
+    {
+      "organization": "INTERACT Club",
+      "position": "Team Leader",
+      "startDate": "2018",
+      "endDate": "2020,
+      "summary": "A volunteering club ",
+      "highlights": [
+        "Volunteered "
+        "Designed and advised on the printing of the club t-shirt",
+      ]
     }
   ],
   "awards": [
@@ -101,7 +127,7 @@
       "title": "Provost Achievement Scholarship",
       "date": "2020-Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Scholarships awarded to incoming freshman students who are residents of Hawai‘i with a minimum overall GPA of 3.8 (4.0 scale). Evidence of superior academic achievement or creative endeavor and record of academic, co-curricular, and community service activities."
+      "summary": "$40,000 scholarship awarded to incoming freshman students who are residents of Hawai‘i with a minimum overall GPA of 3.8 (4.0 scale). Evidence of superior academic achievement or creative endeavor and record of academic, co-curricular, and community service activities."
     },
     {
       "title": "Dean's List",
@@ -113,7 +139,13 @@
       "title": "Pele Awards - Silver Specialty Advertising",
       "date": "May 2019",
       "awarder": "Pele Awards",
-      "summary": "Each year, the Pele Awards recognizes excellence in advertising & design in Hawaii. The Pele Awards is one of fifteen National District Competitions for the American Advertising Awards"
+      "summary": "Each year, the Pele Awards recognizes excellence in advertising & design in Hawaii. The Pele Awards is one of fifteen National District Competitions for the American Advertising Awards."
+    },
+    {
+      "title": "T-Shirt Design - First Place",
+      "date": "2016",
+      "awarder": "Hawaii High School Graphics Exhibition",
+      "summary": ""
     }
   ],
   "references": [
