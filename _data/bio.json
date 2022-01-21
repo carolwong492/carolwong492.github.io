@@ -84,12 +84,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "CyberPatriot",
+      "website": "https://www.uscyberpatriot.org/",
+      "position": "Team Leader",
+      "startDate": "2019-08-05",
+      "endDate": "2020-05-26",
+      "summary": "Led the ",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
@@ -118,15 +118,15 @@
     },
     {
       "title": "Dean's List",
-      "date": "Fall 2020, Spring 2021, Fall 2021",
+      "date": "Fall 2020-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
     },
     {
-      "title": "Pele Awards",
+      "title": "Pele Awards - Silver Specialty Advertising",
       "date": "2019",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
