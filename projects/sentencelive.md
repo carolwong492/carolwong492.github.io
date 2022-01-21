@@ -18,7 +18,7 @@ sentence.Live is a two-player fighting game developed in my junior year Intro to
 
 For the game, the two players share one keyboard for input, with one player using WASD to move and V and B to attack, while the other player uses the arrow keys to move and L and K to attack. The menu and character select screen use mouse input. 
 
-For this project, I did the programming, character design, and art. Placeholder art was used as I focused on making sure that all of the code worked first. I learned how to accept different forms of input in JavaScript, as well as physics mechanics for the characters' movement. I also had to take account of collisions so that the characters didn't fall through the floor and so that the hits were reflected in their health bar. 
+For this project, I did the programming, character design, and art. Placeholder art was used as I focused on making sure that all of the code worked first. I learned how to accept different forms of input in JavaScript, specifically keyboard and mouse commands. I also had to take account of collisions so that the characters didn't fall through the floor and so that the hits were reflected in their health bar. In addition, I had to develop the physics mechanics for the characters' movement. 
 
 The game can be played and the code can be viewed [here](https://studio.code.org/projects/gamelab/7Ns_XQvP99pPVCVWe3YGuzr6EyS6dDP3NgYoeRpcsdQ). 
 
