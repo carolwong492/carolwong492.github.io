@@ -13,11 +13,10 @@ summary: Creation of the graphic design and brand of an imaginary business.
 ---
 
 <img class="ui large right floated rounded image" src="../images/hawkwardall.jpg">
+Our final project for my high school graphic design class was to create something that would be entered into the [Pele Awards](https://www.peleawards.com/). 
 
-I decided to do a bird cafe named "Hawkward Bird Cafe". A bird cafe would have be similar in concept to a cat cafe, except with birds instead of cats. 
+I decided to enter the Advertising division, and create the stationary and brand for a business. I made up a bird cafe named "Hawkward Bird Cafe". A bird cafe would have be similar in concept to a cat cafe, except with birds instead of cats. Through this experience, I learned how to make a cohesive theme that one's brand can build around. Sticking to a warmer yellow and brown color scheme, I imagined this cafe to have a rustic and cute vibe, aiming to appeal to a younger demographic who may be allergic to other pets. I made sure the logo and the main font I used was round and cute to fit this theme.
 
-I learned how to make a cohesive theme that one's brand can build around. Because it was a cafe, I also had to design the menu of the shop. Sticking to a warmer yellow and brown color scheme, I imagined this cafe to have a rustic and cute vibe. I made sure the logo, a small bird, was round and cute to fit this theme. The font I chose was also bubbly and round. 
+With this project, I also bettered my skills at Adobe Photoshop and Illustrator. I got comfortable using the pen tool and clipping masks to create my design. 
 
-The concept and art was entered into the Pele Awards High School Division. Hawkward Bird Cafe placed Silver in the Specialty Advertising (Other) division. 
-
-The Pele Awards website can be found [here](https://www.peleawards.com/).
+Hawkward Bird Cafe placed Silver in the Specialty Advertising (Other) division. 
