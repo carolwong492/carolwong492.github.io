@@ -54,9 +54,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C++",
+        "C",
         "Java",
         "Javascript",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -65,6 +67,7 @@
       "keywords": [
         "MacOS",
         "Windows",
+        "Eclipse"
       ]
     }
   ],
@@ -115,9 +118,9 @@
       "position": "Team Leader",
       "startDate": "2018",
       "endDate": "2020,
-      "summary": "A volunteering club ",
+      "summary": "A volunteering club dedicated to community service projects",
       "highlights": [
-        "Volunteered "
+        "Volunteered at Kuakini Medical Center, Moanalua Elementary, and Moanalua High School",
         "Designed and advised on the printing of the club t-shirt",
       ]
     }
@@ -145,7 +148,7 @@
       "title": "T-Shirt Design - First Place",
       "date": "2016",
       "awarder": "Hawaii High School Graphics Exhibition",
-      "summary": ""
+      "summary": "The Hawaii High School Graphics Exhibition recognizes graphic design talent within high schools in Hawaii."
     }
   ],
   "references": [
