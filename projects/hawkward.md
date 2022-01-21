@@ -15,8 +15,9 @@ summary: Creation of the graphic design and brand of an imaginary business.
 <img class="ui large right floated rounded image" src="../images/hawkwardall.jpg">
 Our final project for my high school graphic design class was to create something that would be entered into the [Pele Awards](https://www.peleawards.com/). 
 
-I decided to enter the Advertising division, and create the stationary and brand for a business. I made up a bird cafe named "Hawkward Bird Cafe". A bird cafe would have be similar in concept to a cat cafe, except with birds instead of cats. Through this experience, I learned how to make a cohesive theme that one's brand can build around. Sticking to a warmer yellow and brown color scheme, I imagined this cafe to have a rustic and cute vibe, aiming to appeal to a younger demographic who may be allergic to other pets. I made sure the logo and the main font I used was round and cute to fit this theme.
+I decided to enter the Advertising division, and create the stationary for a business. I made up a bird cafe named "Hawkward Bird Cafe". A bird cafe would have be similar in concept to a cat cafe, except with birds instead of cats. Through this experience, I learned how to make a cohesive theme that one's brand can build around. Sticking to a warmer yellow and brown color scheme, I imagined this cafe to have a rustic and cute vibe, aiming to appeal to a younger demographic who may be allergic to other pets. The bird designs and the main font I used was round and cute to fit this theme.
 
-With this project, I also bettered my skills at Adobe Photoshop and Illustrator. I got comfortable using the pen tool and clipping masks to create my design. 
+With this project, I also bettered my skills at Adobe Photoshop and Illustrator. I got comfortable using the pen tool and clipping masks to create my design. I had a lot of creative liberties with this project, so I designed nonconventionally shaped business cards that would still fit inside of a wallet. I had to balance creativity with readability. 
 
 Hawkward Bird Cafe placed Silver in the Specialty Advertising (Other) division. 
+
