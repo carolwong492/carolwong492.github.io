@@ -9,6 +9,7 @@ date: 2018-12-20
 labels:
   - JavaScript
   - code.org
+  - Game
 summary: A two-player fighting game I developed using JavaScript.
 ---
 
