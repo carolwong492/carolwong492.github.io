@@ -10,7 +10,7 @@ labels:
   - Twine
   - Game
   - Game Jam
-summary: An interactive fiction game created for a game jam.
+summary: An interactive fiction game created for a one month game jam.
 ---
 
 Flash Mobs and Stolen Lunches is an interactive fiction game that I created for the I Can't Write but Want to Tell a Story Game Jam (Link is now defunct) and the [Summer Novel Game Jam](https://itch.io/jam/sunofes20). Both of these game jams emphasized games that had a focus on its story and plot. 
