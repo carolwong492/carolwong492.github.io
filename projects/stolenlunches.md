@@ -9,6 +9,7 @@ date: 2020-08-20
 labels:
   - Twine
   - Game
+  - Game Jam
 summary: An interactive fiction game created for a game jam.
 ---
 
