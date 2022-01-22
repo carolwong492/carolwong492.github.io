@@ -22,4 +22,4 @@ I decided to enter the Advertising division, and create the stationary for a bus
 With this project, I also bettered my skills at Adobe Photoshop and Illustrator. I got comfortable using the pen tool and clipping masks to create my design. An important skill I developed was learning to balance creativity and convenience. I had a lot of creative liberties with this project, so I designed nonconventionally shaped business cards. However, I ensured that they would still fit inside of a wallet, as that is where most people keep business cards. In addition, I had to make sure that the text used was large and contrasted enough with the background to ensure it was still readable.
 
 Hawkward Bird Cafe placed Silver in the Specialty Advertising (Other) division. 
-
+~~~
