@@ -80,9 +80,9 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
-        "ICS 211: Introduction to Computer Science"
-        "ICS 141: Discrete Math for CS"
-        "ICS 212: Program Structure"
+        "ICS 211: Introduction to Computer Science",
+        "ICS 141: Discrete Math for CS",
+        "ICS 212: Program Structure",
         "ICS 241: Discrete Math for CS"
       ]
     },
@@ -93,9 +93,9 @@
       "endDate": "2020",
       "gpa": "4.0",
       "courses": [
-        "Valedictorian"
-        "Academic Honors"
-        "CTE Honors"
+        "Valedictorian",
+        "Academic Honors",
+        "CTE Honors",
         "Member of Book Club"
       ]
     }
@@ -121,7 +121,7 @@
       "summary": "A volunteering club dedicated to community service projects",
       "highlights": [
         "Volunteered at Kuakini Medical Center, Moanalua Elementary, and Moanalua High School",
-        "Designed and advised on the printing of the club t-shirt",
+        "Designed and advised on the printing of the club t-shirt"
       ]
     }
   ],
