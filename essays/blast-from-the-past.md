@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 ## The Good Old Days
-<img class="ui medium right floated rounded image" src="../images/past.jpg">
+<img class="ui medium right floated rounded image" src="../images/jsfiddle.png">
 In high school, I took an Intro to Computer Science class, where JavaScript was our main focus. That was my first dedicated computer science class, so I was worried that I would struggle to keep up. However, I found that it was relatively easy to pick up. It wasn't effortless by any means, and I had to still put in a lot of work, but compared to what I now know from Java and C++, I find JavaScript to be the most logical language for me. From a software engineering perspective, JavaScript is a good programming language. It's especially good for beginners. It has a shallow learning curve, but still has a lot of depth so that you are able to do a lot with the language. 
 
 ## The New and Intimidating 
