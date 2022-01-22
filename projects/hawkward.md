@@ -9,6 +9,8 @@ date: 2019-05-04
 labels:
   - Graphic Design
   - Pele Awards
+  - Adobe Photoshop
+  - Adobe Illustrator
 summary: Created the graphic design and brand of a fictional business with Adobe Photoshop and Adobe Illustrator. 
 ---
 
