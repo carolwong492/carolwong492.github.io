@@ -8,8 +8,6 @@ labels:
   - Questions
   - Learning
 ---
-Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
-
 ## The Right Questions
 Asking questions is important. When we're learning something new, having questions about the material is a good sign that you're paying attention and thinking critically about the subject. I used to be afraid of asking questions. I held my mouth shut, not wanting to seem dumb or annoying. However, I learned the hard way that avoiding asking questions only hurts you in the end. 
 
