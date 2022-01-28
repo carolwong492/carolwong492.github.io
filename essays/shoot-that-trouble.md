@@ -21,7 +21,9 @@ If you're afraid of looking dumb, it's actually even more important to learn how
 Of course the biggest rule is that it's okay to be ignorant, it's not okay to be rude. Often, people who help on these forums are doing so for free in their own spare time, so being entitled to an answer is not a flattering look. 
 
 ## Not so Smart Questions
-Ren'Py is a python off-shoot. Visual novel making engine. 
+Ren'Py is a visual novel making engine that is built off of the programming language Python. 
+
+
 Doesn't provide the error message. We don't know if it's because it's not defined. All we know is that it just "completely broke the game". A very simple error that can probably be solved just by reading the documentation for Renpy. The header is not helpful. Bad grammar. Not enoughh info to really know for sure what is wrong. Without the error message, we are left to guess at a solution, as we don't really know what's wrong. It is a minimal case? Maybe?
 
 
