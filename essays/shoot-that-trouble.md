@@ -14,20 +14,18 @@ Be sure that your essay includes a textual summary of both the “smart” and �
 
 
 <img class="ui medium right floated rounded image" src="../images/oldpc.jpg">
-## Intro
 
-Asking smart questions is important. You can't not ask any questions, just because you're afraid of looking dumb.
-If you're afraid of looking dumb, it's actually even more important to learn how to ask questions. Asking smart questions doesn't make you look dumb, it makes you look inquisitive and willing to learn more and able to engage in some critical thinking. 
-Of course the biggest rule is that it's okay to be ignorant, it's not okay to be rude. Often, people who help on these forums are doing so for free in their own spare time, so being entitled to an answer is not a flattering look. 
+## The Right Questions
+Asking questions is important. When we're learning something new, having questions about the material is a good sign that you're paying attention and thinking critically about the subject. Avoiding asking questions because you're afraid of seeming dumb or annoying only hurts you in the end. If you're afraid of looking dumb, it's important to learn how to ask *smart* questions. Asking smart questions doesn't make you look dumb, it makes you look inquisitive and willing to learn more. The most important thing to know about asking smart questions is to know that it's okay to be ignorant, but it's not okay to be rude. Often, people who help answer your questions are doing so for free in their own spare time, so being entitled is not a flattering look and will not get you an answer any faster. 
 
-## Not so Smart Questions
-Ren'Py is a visual novel making engine that is built off of the programming language Python. 
+## Not So Smart Questions
+Ren'Py is a visual novel making engine that is built off of the programming language Python. While Ren'Py has its own programming logic, users can use Python to add anything else they want to add to their game. Of course, that level of 
 
+This user's header is ["My renpy code just fails at working labels are broken menus are broken all things are just dead"](https://stackoverflow.com/questions/69848012/my-renpy-code-just-fails-at-working-labels-are-broken-menus-are-broken-all-thing), which is already a red-flag. In the header of posts, 
 
 Doesn't provide the error message. We don't know if it's because it's not defined. All we know is that it just "completely broke the game". A very simple error that can probably be solved just by reading the documentation for Renpy. The header is not helpful. Bad grammar. Not enoughh info to really know for sure what is wrong. Without the error message, we are left to guess at a solution, as we don't really know what's wrong. It is a minimal case? Maybe?
 
-
-Header: "My renpy code just fails at working labels are broken menus are broken all things are just dead"
+Answering this question will require a lot of clarification and back-and-forth and is just a really annoying timesink into 
 
 //
 
@@ -49,6 +47,6 @@ If at all possible, provide a way to reproduce the problem in a controlled envir
 Smart questions should include 
 This included their attempt at fixing it, along with different code snippets of what they are trying to do and where they got their initial code from. They explain how they tried to solve their problem in multiple attempts. They are asking for an explanation for why their code isn't working as they think it's supposed to, and give a clear description of what that is exactly. 
 
-## lessons learned 
+## Lessons Learned
 Asking smart questions guarantees an answer quicker and makes the whole experience less annoying for everyone involved. 
 
