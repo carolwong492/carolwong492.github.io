@@ -21,7 +21,7 @@ To learn how to compose a smart question, it's can help to see how to ask a *not
 
 In [this post](https://stackoverflow.com/questions/69848012/my-renpy-code-just-fails-at-working-labels-are-broken-menus-are-broken-all-thing), this user's header is "My renpy code just fails at working labels are broken menus are broken all things are just dead," which is already a red-flag. In the header of posts, you should include only meaningful, specific information that applies to your question. It's the first thing that anyone sees about your post, so it's the best way to grab someone who can help you's attention and alert them to what your issue is. In this header, the issue at hand isn't clear at all. In addition to that, having improper grammar doesn't give a great first impression. 
 
-<img class="ui large image" src="../images/badQuestion.png">
+<img class="ui image" src="../images/badQuestion.png">
 
 Within the post itself, the poor grammar continues and that can make the issue harder to parse. It begins with unneccessary information with, "My renpy code just dies." After that, all the information that is given is one run-on sentence and a short snippet of code that "completely broke the game." The user doesn't provide the error message that Ren'Py supplies. Without enough information to know for sure what is wrong, people are left to guess at a solution. Answering this question will require a lot of clarification and back-and-forth. For possible responders, this question will seem like a really annoying timesink that could've been avoided if enough information was given in the original post. Asking questions in a not-so-smart way will lower the likelihood that someone will actually put in the time to answer your question. 
 
@@ -33,7 +33,7 @@ In [this post](https://stackoverflow.com/questions/70862723/why-does-changing-cs
 
 Within the post, the user provides a link to a site that outlines what they were basing off their initial code off of and describing how they wanted to try alter it in their program. This is great, as responders can easily track what the user's starting point was and the ways they altered it. After that, the user described their multiple attempts at fixing the issue, along with the specific code snippets of their attempts. This makes it really easy for any responders to follow along with the poster's thought process and provide guidance on any missteps. 
 
-<img class="ui large image" src="../images/goodQuestion.png">
+<img class="ui image" src="../images/goodQuestion.png">
 
 At the end of the post, they ask for an explanation as to why their code isn't working as they think it should. Asking smart questions like this allows responders to answer back quickly with a clear and concise answer. 
 
