@@ -16,12 +16,18 @@ Be sure that your essay includes a textual summary of both the “smart” and �
 <img class="ui medium right floated rounded image" src="../images/oldpc.jpg">
 
 ## The Right Questions
-Asking questions is important. When we're learning something new, having questions about the material is a good sign that you're paying attention and thinking critically about the subject. I used to be afraid of asking questions. I held my mouth shut, not wanting to seem dumb or annoying. However, I learned the hard way that avoiding asking questions only hurts you in the end. If you're like how I was, it's important to learn how to ask questions, and more importantly, how to ask *smart* questions. Asking smart questions doesn't make you look dumb, it makes you look inquisitive and willing to learn more. With the Internet, troubleshooting is easier than ever. The answers to most of our questions are at our fingertips. But just because we're not face-to-face, it's still important to ask questions in a way that respects the time of everyone involved. The most important thing to know about asking smart questions is to know that it's okay to be ignorant, but it's not okay to be rude. Often, people who help answer your questions are doing so for free in their own spare time, so being entitled is not a flattering look and will not get you an answer any faster. 
+Asking questions is important. When we're learning something new, having questions about the material is a good sign that you're paying attention and thinking critically about the subject. I used to be afraid of asking questions. I held my mouth shut, not wanting to seem dumb or annoying. However, I learned the hard way that avoiding asking questions only hurts you in the end. 
 
-## Not So Smart Questions
+If you're like how I was, it's important to learn how to ask questions, and more importantly, how to ask *smart* questions. Asking smart questions doesn't make you look dumb, it makes you look inquisitive and willing to learn more. With the Internet, troubleshooting is easier than ever. The answers to most of our questions are at our fingertips. But just because we're not face-to-face, it's still important to ask questions in a way that respects the time of everyone involved. 
+
+The most important thing to know about asking smart questions is to know that it's okay to be ignorant, but it's not okay to be rude. Often, people who help answer your questions are doing so for free in their own spare time, so being entitled is not a flattering look and will not get you an answer any faster. 
+
+## Good Lessons From Bad Examples
 To learn how to compose a smart question, it's can help to see how to ask a *not so smart* question. Ren'Py is a visual novel making engine that is built off of the programming language Python. While Ren'Py has its own programming logic, users can use Python to add anything else they want to add to their game. 
 
-This user's header is ["My renpy code just fails at working labels are broken menus are broken all things are just dead"](https://stackoverflow.com/questions/69848012/my-renpy-code-just-fails-at-working-labels-are-broken-menus-are-broken-all-thing), which is already a red-flag. In the header of posts, 
+This user's header is ["My renpy code just fails at working labels are broken menus are broken all things are just dead"](https://stackoverflow.com/questions/69848012/my-renpy-code-just-fails-at-working-labels-are-broken-menus-are-broken-all-thing), which is already a red-flag. In the header of posts, include only meaningful, specific information that applies to your question. It's the first thing that anyone sees about your post, so it's the best way to grab someone who can help you's attention and alert them to what your issue is. 
+
+Within the post itself, the user doesn't provide the error message. All the information that is given is a short snippet of code that "completely broke the game."
 
 Doesn't provide the error message. We don't know if it's because it's not defined. All we know is that it just "completely broke the game". A very simple error that can probably be solved just by reading the documentation for Renpy. The header is not helpful. Bad grammar. Not enoughh info to really know for sure what is wrong. Without the error message, we are left to guess at a solution, as we don't really know what's wrong. It is a minimal case? Maybe?
 
@@ -43,7 +49,7 @@ If at all possible, provide a way to reproduce the problem in a controlled envir
 
 
 
-## Smart Questions
+## Good Lessons From Good Examples, Too
 Smart questions should include 
 This included their attempt at fixing it, along with different code snippets of what they are trying to do and where they got their initial code from. They explain how they tried to solve their problem in multiple attempts. They are asking for an explanation for why their code isn't working as they think it's supposed to, and give a clear description of what that is exactly. 
 
