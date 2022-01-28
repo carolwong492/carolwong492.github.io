@@ -12,7 +12,7 @@ labels:
 ## The Right Questions
 Asking questions is important. When we're learning something new, having questions about the material is a good sign that you're paying attention and thinking critically about the subject. I used to be afraid of asking questions. I held my mouth shut, not wanting to seem dumb or annoying. However, I learned the hard way that avoiding asking questions only hurts you in the end. 
 
-If you're like how I was, it's important to learn how to ask questions, and more importantly, how to ask *smart* questions. Asking smart questions doesn't make you look dumb, it makes you look inquisitive and willing to learn more. With the Internet, troubleshooting is easier than ever. The answers to most of our questions are at our fingertips. But just because we're not face-to-face, it's still important to ask questions in a way that respects the time of everyone involved. 
+If you're like how I was, it's important to learn how to ask questions, and more importantly, how to ask *smart* questions. Asking smart questions doesn't make you look dumb; it makes you look inquisitive and willing to learn more. With the Internet, troubleshooting is easier than ever. The answers to most of our questions are at our fingertips. But just because we're not face-to-face, it's still important to ask questions in a way that respects the time of everyone involved. 
 
 The most important thing to know about asking smart questions is to know that it's okay to be ignorant, but it's not okay to be rude. Often, people who help answer your questions are doing so for free in their own spare time, so being entitled is not a flattering look and will not get you an answer any faster. 
 
