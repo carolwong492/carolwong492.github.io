@@ -6,6 +6,7 @@ title: Blast from the Past and Baby Step into the Future
 date: 2022-01-19
 labels:
   - JavaScript
+  - Interests
   - Learning
 ---
 ## The Good Old Days
