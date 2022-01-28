@@ -7,6 +7,7 @@ date: 2022-01-26
 labels:
   - Questions
   - Learning
+  - Troubleshoot
 ---
 ## The Right Questions
 Asking questions is important. When we're learning something new, having questions about the material is a good sign that you're paying attention and thinking critically about the subject. I used to be afraid of asking questions. I held my mouth shut, not wanting to seem dumb or annoying. However, I learned the hard way that avoiding asking questions only hurts you in the end. 
