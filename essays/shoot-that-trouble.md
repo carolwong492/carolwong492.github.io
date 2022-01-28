@@ -14,8 +14,6 @@ Asking questions is important. When we're learning something new, having questio
 
 If you're like how I was, it's important to learn how to ask questions, and more importantly, how to ask *smart* questions. Asking smart questions doesn't make you look dumb; it makes you look inquisitive and willing to learn more. With the Internet, troubleshooting is easier than ever. The answers to most of our questions are at our fingertips. But just because we're not face-to-face, it's still important to ask questions in a way that respects the time of everyone involved. 
 
-The most important thing to know about asking smart questions is to know that it's okay to be ignorant, but it's not okay to be rude. Often, people who help answer your questions are doing so for free in their own spare time, so being entitled is not a flattering look and will not get you an answer any faster. 
-
 ## Good Lessons From Bad Examples
 To learn how to compose a smart question, it's can help to see how to ask a *not so smart* question. Ren'Py is a visual novel making engine that is built off of the programming language Python. While Ren'Py has its own programming logic, users can use Python to add anything else they want to add to their game. 
 
