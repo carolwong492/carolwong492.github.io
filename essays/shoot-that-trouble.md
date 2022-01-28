@@ -10,8 +10,6 @@ labels:
 ---
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
 
-Be sure that your essay includes a textual summary of both the “smart” and “not so smart” questions, as well as a link to the StackOverFlow pages where they are located. Don’t just put the URL to the questions and force the reader to visit StackOverFlow to read the question there, then switch back to your essay to continue. Your essay should contain enough detail about the two questions so that the reader doesn’t need to visit StackOverFlow to make sense of your essay.
-
 ## The Right Questions
 Asking questions is important. When we're learning something new, having questions about the material is a good sign that you're paying attention and thinking critically about the subject. I used to be afraid of asking questions. I held my mouth shut, not wanting to seem dumb or annoying. However, I learned the hard way that avoiding asking questions only hurts you in the end. 
 
@@ -24,26 +22,21 @@ To learn how to compose a smart question, it's can help to see how to ask a *not
 
 In [this post](https://stackoverflow.com/questions/69848012/my-renpy-code-just-fails-at-working-labels-are-broken-menus-are-broken-all-thing), this user's header is "My renpy code just fails at working labels are broken menus are broken all things are just dead," which is already a red-flag. In the header of posts, you should include only meaningful, specific information that applies to your question. It's the first thing that anyone sees about your post, so it's the best way to grab someone who can help you's attention and alert them to what your issue is. In this header, the issue at hand isn't clear at all. In addition to that, having improper grammar doesn't give a great first impression. 
 
-<img class="ui image" src="../images/badQuestion.png">
+<img class="ui large image" src="../images/badQuestion.png">
 
 Within the post itself, the poor grammar continues and that can make the issue harder to parse. It begins with unneccessary information with, "My renpy code just dies." After that, all the information that is given is one run-on sentence and a short snippet of code that "completely broke the game." The user doesn't provide the error message that Ren'Py supplies. Without enough information to know for sure what is wrong, people are left to guess at a solution. Answering this question will require a lot of clarification and back-and-forth. For possible responders, this question will seem like a really annoying timesink that could've been avoided if enough information was given in the original post. 
 
 Asking questions in a not-so-smart way will lower the likelihood that someone will actually put in the time to answer your question. 
 
-## Good Lessons From Good Examples, Too
+## Good Lessons From Good Examples
 
-<img class="ui image" src="../images/goodQuestion.png">
+<img class="ui large image" src="../images/goodQuestion.png">
 
 It's important to learn from seeing good examples as well. Smart questions clearly describe the symptoms of your problem, descibe the research you did to try solve this problem before you asked, and provide the steps necessary to reproduce the problem. 
 
-In [this post](https://stackoverflow.com/questions/70862723/why-does-changing-css-variables-in-js-break-the-app), the user's header is, "Why does changing CSS variables in JS break the app?" While it's not extremely descriptive, it does provide enough information to know that it is specifically about CSS variables and JavaScript.
+In [this post](https://stackoverflow.com/questions/70862723/why-does-changing-css-variables-in-js-break-the-app), the user's header is, "Why does changing CSS variables in JS break the app?" While it's not extremely descriptive, it does provide enough information to know that the question is about CSS variables and how they interact in JavaScript.
 
-Within the post, the user provides a link to a site that outlines what they are trying to do, and what they were tyring to d
-
-This is great, as responders can easily track the user's starting point in terms of their code. After that, the user 
-
-
-This included their attempt at fixing it, along with different code snippets of what they are trying to do and where they got their initial code from. They explain how they tried to solve their problem in multiple attempts. They are asking for an explanation for why their code isn't working as they think it's supposed to, and give a clear description of what that is exactly. 
+Within the post, the user provides a link to a site that outlines what they were basing off their initial code off of and describing how they wanted to try alter it in their program. This is great, as responders can easily track what the user's starting point was, and how they altered it. After that, the user described their multiple attempts at fixing the issue, along with the specific code snippets on their attempts. This makes it really easy for any responders to follow along with the poster's thought process, and provide guidance on 
 
 ## Lessons Learned
 Asking smart questions guarantees an answer quicker and makes the whole experience less annoying for everyone involved. 
