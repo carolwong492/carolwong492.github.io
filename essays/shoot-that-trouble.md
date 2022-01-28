@@ -23,7 +23,7 @@ In [this post](https://stackoverflow.com/questions/69848012/my-renpy-code-just-f
 
 <img class="ui image" src="../images/badQuestion.png">
 
-Within the post itself, the poor grammar continues and that can make the issue harder to parse. It begins with unneccessary information with, "My renpy code just dies." After that, all the information that is given is one run-on sentence and a short snippet of code that "completely broke the game." The user doesn't provide the error message that Ren'Py supplies. Without enough information to know for sure what is wrong, people are left to guess at a solution. Answering this question will require a lot of clarification and back-and-forth. For possible responders, this question will seem like a really annoying timesink that could've been avoided if enough information was given in the original post. Asking questions in a not-so-smart way will lower the likelihood that someone will actually put in the time to answer your question. 
+Within the post itself, the poor grammar continues and that can make the issue harder to parse. It begins with unneccessary information with, "My renpy code just dies." After that, all the information that is given is one run-on sentence and a short snippet of code that "completely broke the game." The user doesn't provide the error message that Ren'Py supplies. Without enough information to know for sure what is wrong, people are left to guess at a solution. Answering this question will require a lot of clarification and back-and-forth. And indeed, the first response on the post is someone giving a guess for what they think could fix their issue, but notes that the original poster really should have included the error message so that they could provide an actual answer. 
 
 ## Good Lessons From Good Examples
 
@@ -35,7 +35,7 @@ Within the post, the user provides a link to a site that outlines what they were
 
 <img class="ui image" src="../images/goodQuestion.png">
 
-At the end of the post, they ask for an explanation as to why their code isn't working as they think it should. Asking smart questions like this allows responders to answer back quickly with a clear and concise answer. 
+At the end of the post, they ask for an explanation as to why their code isn't working as they think it should. Asking smart questions like this allows responders to answer back quickly with a clear and concise answer. The answer to this post is a clear explanation as to why this poster's code didn't work, as well as a possible solution. 
 
 ## Lessons Learned
-Asking smart questions guarantees an answer quicker and makes the whole experience less annoying for everyone involved. Askers get their questions answered more quickly and effectively, and responders don't feel as frustrated when helping others out. Knowing how to ask questions in a way that will get me my questions answered and won't bother others reassures me. From now on, I'll shoot down that fear and go troubleshoot! 
+Asking smart questions guarantees an answer quicker and makes the whole experience less annoying for everyone involved. Askers get their questions answered more quickly and effectively, and responders don't feel as frustrated when helping others out. Asking questions in a not-so-smart way will lower the likelihood that someone will actually put in the time to answer your question. Knowing how to ask questions in a way that will get me my questions answered and won't bother others reassures me. From now on, I'll shoot down that fear and go troubleshoot! 
