@@ -30,13 +30,13 @@ Asking questions in a not-so-smart way will lower the likelihood that someone wi
 
 ## Good Lessons From Good Examples
 
-<img class="ui large image" src="../images/goodQuestion.png">
-
 It's important to learn from seeing good examples as well. Smart questions clearly describe the symptoms of your problem, descibe the research you did to try solve this problem before you asked, and provide the steps necessary to reproduce the problem. 
 
 In [this post](https://stackoverflow.com/questions/70862723/why-does-changing-css-variables-in-js-break-the-app), the user's header is, "Why does changing CSS variables in JS break the app?" While it's not extremely descriptive, it does provide enough information to know that the question is about CSS variables and how they interact in JavaScript.
 
-Within the post, the user provides a link to a site that outlines what they were basing off their initial code off of and describing how they wanted to try alter it in their program. This is great, as responders can easily track what the user's starting point was, and how they altered it. After that, the user described their multiple attempts at fixing the issue, along with the specific code snippets on their attempts. This makes it really easy for any responders to follow along with the poster's thought process, and provide guidance on 
+Within the post, the user provides a link to a site that outlines what they were basing off their initial code off of and describing how they wanted to try alter it in their program. This is great, as responders can easily track what the user's starting point was and the ways they altered it. After that, the user described their multiple attempts at fixing the issue, along with the specific code snippets of their attempts. This makes it really easy for any responders to follow along with the poster's thought process, and provide guidance on any steps. By 
+
+<img class="ui large image" src="../images/goodQuestion.png">
 
 ## Lessons Learned
 Asking smart questions guarantees an answer quicker and makes the whole experience less annoying for everyone involved. 
