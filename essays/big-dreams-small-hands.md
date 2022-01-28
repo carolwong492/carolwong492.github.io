@@ -6,6 +6,7 @@ title: Big Dreams, Small Hands
 date: 2022-01-20
 labels:
   - Software Engineering
+  - Programming Languages
   - Learning
 ---
 <img class="ui medium right floated rounded image" src="../images/oldpc.jpg">
