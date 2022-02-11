@@ -9,7 +9,7 @@ labels:
   - Coding Standards
   - Learning
 ---
-## Running Smoothly
+## Cogs and Frogs
 Coding standards are rules and practices that make the most readable and most efficient code. It helps protect against minor errors and just gives your code a clean feel. Needless to say, when working in a group, they're essential to making sure that others can quickly read your code and edit accordingly. Though they can be a bit boring and annoying to keep track of, coding standards are an essential cog in the machine. Code that doesn't comply to an agreed-upon coding standard will exponentially increase the time team-members spend working, as a large portion of their time will be spent trying to deduce what you wrote. In fact, you might even confuse yourself if you don't follow coding standards, as you might have to spend time looking through messy code for a missing parenthesis or some other minor issue.
 
 <img class="ui medium right floated rounded image" src="../images/frogcomputer.jpg">
