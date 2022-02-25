@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantic U and I (You and I) 
+title: Semantic (Yo)U and I
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-24
 labels:
