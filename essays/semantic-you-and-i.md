@@ -40,7 +40,7 @@ Just by wrapping your elements in a div with the class "ui container," you'll au
 ```
 Just like that, a menu is created for the website. What the menu looks like can be further customized in your stylesheet with .ui.borderless.topmenu.menu if needed. In HTML and CSS, I would need to 
 
-<img class="ui rounded image" src="../images/ui_container.jpg">
+<img class="ui rounded image" src="../images/ui_container.png">
 
 This website (Made with Semantic UI!) has a nice padding on the side and looks very professional. 
 
