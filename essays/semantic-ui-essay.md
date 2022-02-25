@@ -9,23 +9,6 @@ labels:
   - UI Frameworks
   - Learning
 ---
-
-UI Frameworks are not simple. In fact, they can be almost as complicated to 
-learn as a new programming language. Given that, why bother to use something like Semantic UI? 
-What does one get in return for the investment of time and frustration? Why not just use raw HTML and CSS? 
-Are the software engineering benefits of UI frameworks?
-
-For this assignment, create an engaging and informative essay about UI Frameworks. 
-You might want to discuss some of the issues raised above, as well as your own personal experience with 
-Semantic UI. Or perhaps you’ve also used another framework such as Twitter Bootstrap. In that case, 
-it might be interesting to read your perspective on a comparison of the two.
-
-This essay is tailor made to include an image of a web page built with a UI framework 
-(or even a comparison of web pages built with and without a UI framework).
-
-Feel free to go in another direction entirely, as long as you are discussing UI Frameworks, 
-and as long as the result is interesting, informative, and insightful. Write for the world!
-
 When I first learned HTML and CSS, it became extremely easy to design websites. 
 
 Well, to be exact, it became extremely easy to design horrendous-looking websites. 
@@ -43,4 +26,5 @@ Luckily, Semantic UI and other frameworks do a lot of the background work for yo
 
 Just by wrapping your elements in a div with the class "ui container," you'll automatically get a nice padding around your elements. This is all defined in Semantic UI, so you don't have to manually adjust the padding in your stylesheet at all. 
 
-With Semantic UI, I can easily design websites that look a lot more 
+With Semantic UI, I can easily design websites that look a lot more professional and neater. Usability and readability is one of the most important aspects of web design. Even if you have a lot of amazing content on your site, with improper UI, it can be a slog to get through and can greatly reduce the number of people who are willing to read through it all. 
+
