@@ -38,10 +38,10 @@ Just by wrapping your elements in a div with the class "ui container," you'll au
   </div>
 </div>
 ```
-Just like that, a menu is created for the website. What the menu looks like can be further customized in your stylesheet with .ui.borderless.topmenu.menu if needed. In HTML and CSS, I would need to 
+Just like that, a menu is created for the website. What the menu looks like can be further customized in your stylesheet with .ui.borderless.topmenu.menu if needed. In HTML and CSS, I would need to create not only the links, but a container and 
 
 <img class="ui rounded image" src="../images/ui_container.png">
 
-This website (Made with Semantic UI!) has a nice padding on the side and looks very professional. 
+This website (Made with Semantic UI!) has a nice padding on the side and looks very professional. Also, 
 
 With Semantic UI, I can easily design websites that look a lot more professional and neater. While the same result could be replicated with raw HTML and CSS, it's just a lot easier to do so with Semantic UI. Even though Semantic UI can't *completely* save my sites (That probably falls on me for my enjoyment of colors and patterns that give you a migraine just looking at them), it can do a lot in making a website that I can proudly show people. 
