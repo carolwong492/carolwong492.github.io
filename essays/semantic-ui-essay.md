@@ -12,9 +12,11 @@ labels:
 When I first learned HTML and CSS, it became extremely easy to design websites. 
 
 Well, to be exact, it became extremely easy to design horrendous-looking websites. 
-<img class="ui medium right rounded floated image" src="../images/graphic_design.jpg">
 
+<img class="ui medium right rounded floated image" src="../images/graphic_design.jpg">
 I used to think that writing raw HTML and CSS from scratch was the only way to design a website. I'll spare you the neon eyesore (Middle school Carol knew nothing about graphic design), but my few dips into website design led me to believe that making a website look nice was annoying and time-consuming. For example, having a margin on the far left and right of elements makes a website seem less cluttered. However, actually implementing this means adding a left or right padding to every single element, which isn't difficult, just time-consuming. And don't even get me started on different screen sizes. The moment my websites were viewed on a computer with a significantly larger or smaller screen size, or, heaven forbid, a *phone,* my websites just gave up the ghost and produced some awful concoction where text and images clipped into each other and ran off the screen.
+
+Usability and readability is one of the most important aspects of web design. Even if you have a lot of amazing content on your site, with improper UI, it can be a slog to get through and can greatly reduce the number of people who are willing to read through it all.
 
 Luckily, Semantic UI and other frameworks do a lot of the background work for you, and simplifies a lot of the code that you have to write when designing your websites. For example:
 
@@ -26,5 +28,4 @@ Luckily, Semantic UI and other frameworks do a lot of the background work for yo
 
 Just by wrapping your elements in a div with the class "ui container," you'll automatically get a nice padding around your elements. This is all defined in Semantic UI, so you don't have to manually adjust the padding in your stylesheet at all. 
 
-With Semantic UI, I can easily design websites that look a lot more professional and neater. Usability and readability is one of the most important aspects of web design. Even if you have a lot of amazing content on your site, with improper UI, it can be a slog to get through and can greatly reduce the number of people who are willing to read through it all. 
-
+With Semantic UI, I can easily design websites that look a lot more professional and neater a lot easier than I could with raw HTML and CSS. 
