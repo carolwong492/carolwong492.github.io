@@ -18,7 +18,7 @@ I used to think that writing raw HTML and CSS from scratch was the only way to d
 
 Luckily, Semantic UI and other frameworks do a lot of the background work for you, and simplifies a lot of the code that you have to write when designing your websites. For example:
 
-```
+```HTML
 <div class = "ui container">
   <h1>Hello World!</h1>
 </div>
