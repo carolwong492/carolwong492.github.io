@@ -41,4 +41,6 @@ Luckily, Semantic UI and other frameworks do a lot of the background work for yo
 </div>
 ```
 
-Just by wrapping your elements in a div with the class "ui container," you'll get a nice padding around your elements that make your websites look cleaner. 
+Just by wrapping your elements in a div with the class "ui container," you'll automatically get a nice padding around your elements. This is all defined in Semantic UI, so you don't have to manually adjust the padding in your stylesheet at all. 
+
+Semantic UI has a lot of 
