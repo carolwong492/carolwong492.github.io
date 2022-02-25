@@ -38,6 +38,7 @@ Luckily, Semantic UI and other frameworks do a lot of the background work for yo
 ```
 <div class = "ui container">
   <h1>Hello World!</h1>
-</div>```
+</div>
+```
 
 Just by wrapping your elements in a div with the class "ui container," you'll get a nice padding around your elements that make your websites look cleaner. 
