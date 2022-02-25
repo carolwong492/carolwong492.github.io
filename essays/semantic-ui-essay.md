@@ -29,9 +29,9 @@ and as long as the result is interesting, informative, and insightful. Write for
 When I first learned HTML and CSS, it became extremely easy to design websites. 
 
 Well, to be exact, it became extremely easy to design horrendous-looking websites. 
-<img class="ui medium center rounded floated image" src="../images/graphic_design.jpg">
+<img class="ui medium right rounded floated image" src="../images/graphic_design.jpg">
 
-I used to think that writing raw HTML and CSS from scratch was the only way to design a website. I'll spare you the neon eyesore (Middle school Carol knew nothing about graphic design), but my few dips into website design led me to believe that making a website look nice was annoying and time-consuming. For example, having a margin on the far left and right of elements makes a website seem less cluttered. However, actually implementing this means adding a left or right padding to every single element, which isn't difficult, just time-consuming. And don't even get me started on different screen sizes. The moment my websites were viewed on a computer with a signficantly larger or smaller screen size, or, heaven forbid, a *tablet,* my websites just gave up the ghost and produced some awful concoction where text and images clipped into each other and ran off the screen.
+I used to think that writing raw HTML and CSS from scratch was the only way to design a website. I'll spare you the neon eyesore (Middle school Carol knew nothing about graphic design), but my few dips into website design led me to believe that making a website look nice was annoying and time-consuming. For example, having a margin on the far left and right of elements makes a website seem less cluttered. However, actually implementing this means adding a left or right padding to every single element, which isn't difficult, just time-consuming. And don't even get me started on different screen sizes. The moment my websites were viewed on a computer with a significantly larger or smaller screen size, or, heaven forbid, a *phone,* my websites just gave up the ghost and produced some awful concoction where text and images clipped into each other and ran off the screen.
 
 Luckily, Semantic UI and other frameworks do a lot of the background work for you, and simplifies a lot of the code that you have to write when designing your websites. For example:
 
@@ -43,4 +43,4 @@ Luckily, Semantic UI and other frameworks do a lot of the background work for yo
 
 Just by wrapping your elements in a div with the class "ui container," you'll automatically get a nice padding around your elements. This is all defined in Semantic UI, so you don't have to manually adjust the padding in your stylesheet at all. 
 
-Semantic UI has a lot of 
+With Semantic UI, I can easily design websites that look a lot more 
