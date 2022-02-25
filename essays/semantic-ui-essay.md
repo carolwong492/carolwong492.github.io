@@ -26,13 +26,14 @@ This essay is tailor made to include an image of a web page built with a UI fram
 Feel free to go in another direction entirely, as long as you are discussing UI Frameworks, 
 and as long as the result is interesting, informative, and insightful. Write for the world!
 
-## Cogs and Frogs
+## Design for You and I
 When I first learned HTML and CSS, it became extremely easy to design websites. 
 
-Well, it became extremely easy to design horrendous-looking websites. 
+Well, to be exact, it became extremely easy to design horrendous-looking websites. 
 <img class="ui medium center floated rounded image" src="../images/graphic_design.jpg">
 
+I used to think that writing raw HTML and CSS from scratch was the only way to design a website. I'll spare you the neon eyesore (Middle school Carol knew nothing about graphic design), but my few dips into website design led me to believe that designing a website was annoyingly time-consuming. For example, having a comfortable padding on the far left and right of elements makes 
 
-Raw HTML and CSS is 
+and don't even get me started on different screen sizes. Even though I knew 
 
-Semantic UI and other frameworks do a lot of the background work for you, in 
+Semantic UI and other frameworks do a lot of the background work for you, and simplifies a lot of the code that you have to write when designing your websites. 
