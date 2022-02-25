@@ -28,4 +28,4 @@ Luckily, Semantic UI and other frameworks do a lot of the background work for yo
 
 Just by wrapping your elements in a div with the class "ui container," you'll automatically get a nice padding around your elements. This is all defined in Semantic UI, so you don't have to manually adjust the padding in your stylesheet at all. 
 
-With Semantic UI, I can easily design websites that look a lot more professional and neater a lot easier than I could with raw HTML and CSS. 
+With Semantic UI, I can easily design websites that look a lot more professional and neater. While the same result could be replicated with raw HTML and CSS, it's just a lot easier to do so with Semantic UI. 
