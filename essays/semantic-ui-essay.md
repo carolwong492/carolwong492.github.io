@@ -26,6 +26,6 @@ Luckily, Semantic UI and other frameworks do a lot of the background work for yo
 </div>
 ```
 
-Just by wrapping your elements in a div with the class "ui container," you'll automatically get a nice padding around your elements. This is all defined in Semantic UI, so you don't have to manually adjust the padding in your stylesheet at all. 
+Just by wrapping your elements in a div with the class "ui container," you'll automatically get a nice padding around your elements. This is all defined in Semantic UI, so you don't have to manually adjust the padding in your stylesheet at all. It's just a lot quicker to use Semantic UI here. In addition, when making things like menus, Semantic UI 
 
-With Semantic UI, I can easily design websites that look a lot more professional and neater. While the same result could be replicated with raw HTML and CSS, it's just a lot easier to do so with Semantic UI. 
+With Semantic UI, I can easily design websites that look a lot more professional and neater. While the same result could be replicated with raw HTML and CSS, it's just a lot easier to do so with Semantic UI. Even though Semantic UI can't *completely* save my sites (That probably falls on me for my enjoyment of colors and patterns that give you a migraine just looking at them), it can do a lot. 
