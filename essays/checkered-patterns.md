@@ -11,5 +11,3 @@ labels:
 ---
 <img class="ui medium right floated rounded image" src="../images/oldpc.jpg">
 ## Chess Bored
-
-fjef<sup>fe</sup>
