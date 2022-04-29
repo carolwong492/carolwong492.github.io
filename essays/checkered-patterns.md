@@ -18,7 +18,7 @@ Back when I was in Chess Club, and each club meeting would begin with an introdu
 ## Recognize and (Meteor) React
 While it's impossible to even think of trying to memorize all possible chess games and moves, being able to recognize a select few can prove advantageous. Recognizing moves that your opponent is using can give you insight into what they might do next and how to properly counter and win.
 
-<img class="ui medium left floated rounded image" src="../images/sinkface.jpg">
+<img class="ui medium left floated rounded image" src="../images/sinkface.jpeg">
 Humans are pattern-recognition machines. It's why we see faces in inanimate objects. Whenever we see or experience something new, our minds immediately compare it to similar situations we've been in in the past so we know how to react.
 
 When coding a structure, we may come across a problem we have to solve or a feature that we wish to implement, and feel swamped with all of the possibile ways to solve it. We don't need to reinvent the wheel each time. Instead, we can turn to design patterns. Design patterns provides us with a template solution to use for other similar problems. Knowing various design patterns can guide us when structuring our code. It won't provide you with all of the exact code to write, but like recognizing openings in chess, it can provide insight for what to do. 
@@ -27,4 +27,4 @@ One such design pattern is the Observer Design Pattern. In our project, we had a
 
 ```const allTags = _.pluck(Tags.collection.find().fetch(), 'name');```
 
-Whenever the collection is updated, this code will be rerun so that the most recent collection
+Whenever the collection is updated, this line of code will be rerun so that the most recent collection of tags will be fetched. This ensures that users will have consistent access to all available tags
