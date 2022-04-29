@@ -29,4 +29,4 @@ One such design pattern is the Observer Design Pattern. In our project, we had a
 
 This ```.find()``` ensures that this line of code will be rerun each time the collection is edited, so the most recent collection of tags will be fetched. This ensures that users will have consistent access to all available tags. 
 
-Patterns are everywhere in the world: in chess, in art, in the human mind. We can use these patterns to our advantage and 
+Patterns are everywhere in the world: in chess, in art, in the human mind. We can use these patterns to our advantage and have them help us solve a multitude of other problems. 
