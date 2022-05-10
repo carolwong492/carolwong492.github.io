@@ -3,10 +3,10 @@ layout: essay
 type: essay
 title: Going Forward
 # All dates must be YYYY-MM-DD format!
-date: 2022-05-08
+date: 2022-05-09
 labels:
   - Software Engineering
-  - Programming Languages
+  - Ethics
   - Learning
 ---
 
@@ -15,12 +15,16 @@ labels:
 ## A Look Back
 Web application development was always something I was interested in. Whenever someone asked me what I planned to do after I graduated, I always answered with working in software development or website creation. ICS 314: Introduction to Software Engineering seemed to be the perfect match for my interests.
 
-## Sharing Knowledge
+## It's a Group Effort
 Open source software had seemed strange to me at first. I was of the mindset that having code freely available on the Internet meant that people would just come to steal it and profit off of it. There didn't seem to be any benefits to doing so. 
 
-However, open source development only propels the entire industry forward as a whole. 
+However, open source development only propels the entire industry forward as a whole. Open source software invites other developers to collaborate on the project. There are multiple open source licenses out there that protects your work and means you control how other people use it. 
 
-Github seemed so intimidating at first. There was a lot of new vocabulary to learn and it was my first experience with any sort of collaborative code-sharing site. At first, I was very afraid that I would somehow mess up and overwrite my code or delete it somehow.
+To that effect, GitHub is a tool that allows easy collaboration on coding projects between developers. It had all seemed so intimidating at first. There was a lot of new vocabulary to learn and it was my first experience with any sort of collaborative code-sharing site. I was very afraid that I would somehow mess up and overwrite my code or delete it. As I got more used to it, I began to really see all of the benefits that it holds. 
+ 
+GitHub only uploads files that you edited, so you don't have to remember which ones you changed. It easily accounts for times where people write on the same line of code with addressing merge conflicts. It also has a branching system so that people can play around with the code without worrying about absolutely ruining it to the point of no return.
+
+Now that I have a strong understanding of how to use GitHub, I can easily use it for any other coding projects outside of this class. I already used it in the Game Dev Club here at UH Manoa. Our group used GitHub to easily collaborate on the coding for our game.
 
 ## Good and Evil Aren't So Binary 
 Our last day of class saw us debating a technology-related moral question. We were assigned to various readings about the ethical responsibilities that creators in tech hold, such as following the [ACM Code of Ethics](https://www.acm.org/code-of-ethics) as well as a variety of case studies, such as [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)). Our groups were randomly assigned which side we were to argue for and given 20 minutes to prepare.
@@ -48,3 +52,6 @@ My group was assigned the side that it was ethical to work for this company. Acc
 However, as my group and I discussed the topic more, I soon realized the topic wasn't as clear-cut as I initially thought. While the technology itself could be unethical, that doesn't mean the act of working for this company is unethical as well. There's a lot of social and economic factors that come into play when trying to decide what is good and what is bad. 
 
 This experience really opened my eyes to how the morality of a given action isn't so easily decided, and that everyone will hold their own views on what is right and wrong. In the cases of technology, because it is so new, we are currently in the process of what is the pros and cons of every action and how they can hurt or help people. 
+
+## What the Future Holds 
+I'm still interested in going into web development, and this class only increased my interest in the subject. Learning specific tools that those in the field use or ethical decisions they encounter has given me a lot of useful information into how the industry works and helped me better imagine what my future is going to look like.  
