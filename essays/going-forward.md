@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium right floated rounded image" src="../images/oldpc.jpg">
+<img class="ui medium right floated rounded image" src="../images/webdevelopment.jpg">
 
 ## A Look Back
 Web application development was always something I was interested in. Whenever someone asked me what I planned to do after I graduated, I always answered with working in software development or website creation. ICS 314: Introduction to Software Engineering seemed to be the perfect match for my interests.

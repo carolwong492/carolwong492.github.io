@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hawkwardlogo.png
+image: images/mmicon.png
 title: Microwavin Manoa
 permalink: projects/microwavinmanoa
 # All dates must be YYYY-MM-DD format!
@@ -9,8 +9,8 @@ date: 2022-05-10
 labels:
   - Semantic UI React
   - Meteor
-  - 
-summary: Created the graphic design and brand of a fictional business with Adobe Photoshop and Adobe Illustrator. 
+  - Digital Ocean
+summary: Created and deployed site that allows for students to learn and share recipes that can be made using minimal kitchen facilities and made out of ingredients that are available within walking distance of UH.
 ---
 
 <img class="ui large right floated rounded image" src="../images/hawkwardall.jpg">
