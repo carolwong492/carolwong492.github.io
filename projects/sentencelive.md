@@ -14,7 +14,8 @@ summary: A two-player fighting game I developed using JavaScript.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/standoff.png">
-## 
+
+## Coding Fisticuffs 
 sentence.Live is a two-player fighting game developed in my junior year Intro to Computer Science course in high school. The game was made on [code.org](https://code.org/). The site uses [Blockly](https://developers.google.com/blockly), a library created for users to code in JavaScript using block-based programming. However, we were discouraged from using the blocks when coding, and instead told to type it out instead.
 
 For the game, the two players share one keyboard for input, with one player using WASD to move and V and B to attack, while the other player uses the arrow keys to move and L and K to attack. The menu and character select screen use mouse input. 
