@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Going Forward
+title: Stepping On The Gas
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-09
 labels:
@@ -10,12 +10,12 @@ labels:
   - Learning
 ---
 
-<img class="ui medium right floated rounded image" src="../images/webdevelopment.jpg">
+<img class="ui medium right floated rounded image" src="../images/carcomputer.jpg">
 
-## A Look Back
-Web application development was always something I was interested in. Whenever someone asked me what I planned to do after I graduated, I always answered with working in software development or website creation. ICS 314: Introduction to Software Engineering seemed to be the perfect match for my interests.
+## Checking My Mirrors
+As my time in ICS 314: Introduction to Software Engineering is coming to a close, I feel as if I'm sitting in the driver's seat, all of my accumulated knowledge revving me up to go. However, to go forward, it's important to look back. Web application development was always something I was interested in. Whenever someone asked me what I planned to do after I graduated, I always answered with working in software development or website creation. ICS 314 seemed to be the perfect match for my interests.
 
-## It's a Group Effort
+## It's a Group Effort (Carpooling Helps Everyone)
 Open source software had seemed strange to me at first. I was of the mindset that having code freely available on the Internet meant that people would just come to steal it and profit off of it. There didn't seem to be any benefits to doing so. 
 
 However, open source development only propels the entire industry forward as a whole. Open source software invites other developers to collaborate on the project. There are multiple open source licenses out there that protects your work and means you control how other people use it. 
@@ -28,6 +28,8 @@ Now that I have a strong understanding of how to use GitHub, I can easily use it
 
 ## Good and Evil Aren't So Binary 
 Our last day of class saw us debating a technology-related moral question. We were assigned to various readings about the ethical responsibilities that creators in tech hold, such as following the [ACM Code of Ethics](https://www.acm.org/code-of-ethics) as well as a variety of case studies, such as [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)). Our groups were randomly assigned which side we were to argue for and given 20 minutes to prepare.
+
+When I went into class, I was expecting one of those Trolley Car Problems, but maybe with self-driving cars or something to that effect. So I was surprised when I saw the problem that we would be debating. 
 
 The ethical debate goes as follows:
 ```
@@ -53,5 +55,5 @@ However, as my group and I discussed the topic more, I soon realized the topic w
 
 This experience really opened my eyes to how the morality of a given action isn't so easily decided, and that everyone will hold their own views on what is right and wrong. In the cases of technology, because it is so new, we are currently in the process of what is the pros and cons of every action and how they can hurt or help people. 
 
-## What the Future Holds 
-I'm still interested in going into web development, and this class only increased my interest in the subject. Learning specific tools that those in the field use or ethical decisions they encounter has given me a lot of useful information into how the industry works and helped me better imagine what my future is going to look like.  
+## Green Light
+This class only increased my interest in web development. Learning specific tools that those in the field use or ethical decisions they encounter has given me a lot of useful information into how the industry works and helped me better imagine what my future is going to look like.  
