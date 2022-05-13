@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Stepping On The Gas
 # All dates must be YYYY-MM-DD format!
-date: 2022-05-09
+date: 2022-05-13
 labels:
   - Software Engineering
   - Ethics
@@ -56,4 +56,4 @@ However, as my group and I discussed the topic more, I soon realized the topic w
 This experience really opened my eyes to how the morality of a given action isn't so easily decided, and that everyone will hold their own views on what is right and wrong. In the cases of technology, because it is so new, we are currently in the process of what is the pros and cons of every action and how they can hurt or help people. 
 
 ## Green Light
-This class only increased my interest in web development. Learning specific tools that those in the field use or ethical decisions they encounter has given me a lot of useful information into how the industry works and helped me better imagine what my future is going to look like.  
+This class only served to increase my interest in web development. Learning specific tools that those in the field use or ethical decisions they encounter has given me a lot of useful information into how the industry works and helped me better imagine what my future is going to look like. With my hands on the steering wheel and my foot on the pedal, I'm excited to see what the future holds. 
