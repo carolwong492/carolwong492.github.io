@@ -21,6 +21,6 @@ This was the first time I've entered a game jam, and the first time I created an
 
 The game can be played [here](https://hullabaloo.itch.io/flash-mobs-and-stolen-lunches).
 
-<img class="ui image" src="../images/game1.png">
+<img class="ui rounded image" src="../images/game1.png">
 
-<img class="ui image" src="../images/gameClues.png">
+<img class="ui rounded image" src="../images/gameClues.png">
