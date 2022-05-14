@@ -21,11 +21,11 @@ In [this post](https://stackoverflow.com/questions/69848012/my-renpy-code-just-f
 
 <img class="ui image" src="../images/badQuestion.png">
 
-Within the post itself, the poor grammar continues and that can make the issue harder to parse. It begins with unneccessary information with, "My renpy code just dies." After that, all the information that is given is one run-on sentence and a short snippet of code that "completely broke the game." The user doesn't provide the error message that Ren'Py supplies. Without enough information to know for sure what is wrong, people are left to guess at a solution. Answering this question will require a lot of clarification and back-and-forth. And indeed, the first response on the post is someone giving a guess for what they think could fix their issue, but notes that the original poster really should have included the error message so that they could provide an actual answer. 
+Within the post itself, the poor grammar continues and that can make the issue harder to parse. It begins with unnecessary information with, "My renpy code just dies." After that, all the information that is given is one run-on sentence and a short snippet of code that "completely broke the game." The user doesn't provide the error message that Ren'Py supplies. Without enough information to know for sure what is wrong, people are left to guess at a solution. Answering this question will require a lot of clarification and back-and-forth. And indeed, the first response on the post is someone giving a guess for what they think could fix their issue, but notes that the original poster really should have included the error message so that they could provide an actual answer. 
 
 ## Good Lessons From Good Examples
 
-It's important to learn from seeing good examples as well. Smart questions clearly describe the symptoms of your problem, descibe the research you did to try solve this problem before you asked, and provide the steps necessary to reproduce the problem. 
+It's important to learn from seeing good examples as well. Smart questions clearly describe the symptoms of your problem, describe the research you did to try solve this problem before you asked, and provide the steps necessary to reproduce the problem. 
 
 In [this post](https://stackoverflow.com/questions/70862723/why-does-changing-css-variables-in-js-break-the-app), the user's header is, "Why does changing CSS variables in JS break the app?" While it's not extremely descriptive, it does provide enough information to know that the question is about CSS variables and how they interact in JavaScript.
 
