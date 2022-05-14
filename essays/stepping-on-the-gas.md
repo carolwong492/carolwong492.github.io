@@ -26,7 +26,7 @@ GitHub only uploads files that you edited, so you don't have to remember which o
 
 Now that I have a strong understanding of how to use GitHub, I can easily use it for any other coding projects outside of this class. I already used it in the Game Dev Club here at UH Manoa. Our group used GitHub to easily collaborate on the coding for our game.
 
-## Good and Evil Aren't So Binary 
+## Not Another Trolley Car Problem
 Our last day of class saw us debating a technology-related moral question. We were assigned to various readings about the ethical responsibilities that creators in tech hold, such as following the [ACM Code of Ethics](https://www.acm.org/code-of-ethics) as well as a variety of case studies, such as [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)). Our groups were randomly assigned which side we were to argue for and given 20 minutes to prepare.
 
 When I went into class, I was expecting one of those Trolley Car Problems, but maybe with self-driving cars or something to that effect. So I was surprised when I saw the problem that we would be debating. 
