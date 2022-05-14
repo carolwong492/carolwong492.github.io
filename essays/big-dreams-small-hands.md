@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: false
 title: Big Dreams, Small Hands
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
