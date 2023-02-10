@@ -84,7 +84,8 @@
         "ICS 141: Discrete Math 1 for CS",
         "ICS 212: Program Structure",
         "ICS 241: Discrete Math 2 for CS",
-        "ICS 314: Introduction to Software Engineering"
+        "ICS 314: Introduction to Software Engineering",
+        "ICS 311: Algorithms"
       ]
     },
      {
@@ -101,6 +102,22 @@
         "Member of Book Club"
       ]
     }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa",
+      "position": "API Lead and Web Developer",
+      "website": "https://www.hawaii.edu/its/uhgroupings/info",
+      "startDate": "2022-06",
+      "endDate": "Present",
+      "summary": "Maintained and contributed to the University of Hawaii at Manoa's Grouping site, which creates and manages large groups of people on campus within a centralized database",
+      "highlights": [
+        "Created and maintained API and UI endpoints with AngularJS and Java",
+        "Created and resolved tickets to add new features to the site or catch any bugs ",
+        "Promoted to API Lead in December 2022",
+        "Mentored new team members",
+      ]
+    },
   ],
   "volunteer": [
     {
